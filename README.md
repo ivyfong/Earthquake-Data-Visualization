@@ -6,3 +6,19 @@ The objective of this project is to use Leaflet to map the earthquakes that occu
 ## **Tools:**
 1. JavaScript - Leaflet, D3
 2. HTML/CSS
+
+## **Screenshot:**
+Street Map
+![screenshot1.jpg](images/map_screenshot1.JPG)
+
+Dark Map
+![screenshot2.jpg](images/map_screenshot2.JPG)
+
+Light Map
+![screenshot3.jpg](images/map_screenshot3.JPG)
+
+Without Earthquakes
+![screenshot4.jpg](images/map_screenshot4.JPG)
+
+Without Tectonic Plates
+![screenshot5.jpg](images/map_screenshot5.JPG)
