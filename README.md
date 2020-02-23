@@ -7,7 +7,7 @@ The objective of this project is to use Leaflet to map the earthquakes that occu
 1. JavaScript - Leaflet, D3
 2. HTML/CSS
 
-## **Screenshot:**
+## **Screenshots:**
 Street Map
 ![screenshot1.jpg](images/map_screenshot1.JPG)
 
