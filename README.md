@@ -6,7 +6,10 @@ The objective of this project is to use Leaflet to map the earthquakes that occu
 ## **Tools:**
 1. JavaScript - Leaflet, D3
 2. HTML/CSS
-3. United States Geological Survey (USGS) API
+
+## **Data Sources:**
+* United States Geological Survey (USGS) API
+* Tectonic Plates GeoJSON: https://github.com/fraxen/tectonicplates
 
 ## **Screenshots:**
 Street Map
